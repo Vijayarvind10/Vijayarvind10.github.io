@@ -21,7 +21,7 @@
     "Teaching Assistant for ARTG 91"
   ],
   "languages": ["C++", "Go", "Python", "Java"],
-  "hobbies": ["Guitar", "Mridangam", "Astrology", "Crypto Mining"]
+  "hobbies": ["Guitar", "Mridangam"]
 }
 ```
 
