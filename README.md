@@ -1,66 +1,64 @@
+
+***
+
+```html
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Vijay%20Arvind&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62" width="100%"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=4AF626&background=00000000&center=true&vCenter=true&width=800&height=100&lines=root%40vijay%3A~%23+whoami;Systems+Engineer+%7C+Distributed+Systems+%7C+Machine+Learning;root%40vijay%3A~%23+cat+profile.json" alt="Typing SVG" />
+</div>
 
-  <br>
+<div align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="600" style="border-radius: 10px; margin-bottom: 20px;" alt="Terminal GIF"/>
+</div>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Systems+Engineer;Computer+Science+Master+Student;Distributed+Systems+Enthusiast" alt="Typing SVG" />
-  </a>
+### ⚙️ System Diagnostics: `vijay.exe`
 
-  <br>
+```json
+{
+  "user": "Vijay Arvind Ramamoorthy",
+  "status": "Finishing MS in Computer Science at UC Santa Cruz (March 2026)",
+  "specialization": "High performance infrastructure and reliable distributed systems",
+  "recent_tasks": [
+    "Implemented Store Buffer mechanism in QEMU RISC-V emulator",
+    "Finalizing Capstone on LTL specification and verification workflow",
+    "Teaching Assistant for ARTG 91"
+  ],
+  "languages": ["C++", "Go", "Python", "Java"],
+  "hobbies": ["Guitar", "Mridangam", "Astrology", "Crypto Mining"]
+}
+```
 
-  <h3>
-    Hello there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-  </h3>
+<div align="center">
 
-  <p align="center">
-    I am <b>Vijay</b>, a dedicated systems engineer with a strong background in building high performance infrastructure and reliable distributed systems. I am currently finishing my Master of Science in Computer Science at the University of California Santa Cruz. When I am not writing code for emulators or working on machine learning projects, you can find me playing the guitar or the mridangam.
-  </p>
+### 💻 Core Tech Stack
 
-  <br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=cpp,go,python,java,linux,docker,kubernetes,aws,git,github,vscode&perline=11&theme=dark" />
+</a>
 
-  <h3>🛠️ Tech Stack</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,go,python,java,linux,docker,kubernetes,aws,git,github,vscode&perline=11" />
-  </a>
+---
 
-  <br>
-  <br>
+### 📊 Telemetry & Metrics
 
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Vijayarvind10&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="180" alt="stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vijayarvind10&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="180" alt="languages" />
-  </div>
+<img src="https://github-readme-stats.vercel.app/api?username=Vijayarvind10&show_icons=true&hide_border=true&bg_color=0D1117&text_color=4AF626&icon_color=4AF626&title_color=4AF626" height="180" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vijayarvind10&layout=compact&hide_border=true&bg_color=0D1117&text_color=4AF626&title_color=4AF626" height="180" alt="languages" />
 
-  <br>
+<br/>
 
-  <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vijayarvind10&theme=tokyonight&hide_border=true&background=00000000" alt="streak" />
-  </div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vijayarvind10&hide_border=true&background=0D1117&ring=4AF626&fire=4AF626&currStreakNum=4AF626&currStreakLabel=4AF626&sideNums=4AF626&sideLabels=4AF626&dates=4AF626" alt="streak" />
 
-  <br>
+---
 
-  <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Vijayarvind10&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
-  </div>
+### 📡 Network & Connections
 
-  <br>
+<a href="https://github.com/Vijayarvind10">
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=4AF626" />
+</a>
 
-  <h3>🤝 Connect with me</h3>
-  <p align="center">
-    <a href="https://github.com/Vijayarvind10">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-  </p>
+<br/><br/>
 
-  <br>
-
-  <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=Vijayarvind10&style=flat-square&color=blue" alt="views" />
-  </div>
-
-  <br>
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+<img src="https://komarev.com/ghpvc/?username=Vijayarvind10&style=for-the-badge&color=4AF626&label=PROFILE+VIEWS" alt="views" />
 
 </div>
+```
+
+***
