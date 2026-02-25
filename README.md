@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Vijayarvind10&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=51&descAlign=62" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Vijay&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=51&descAlign=62" width="100%"/>
 
   <br>
 
@@ -14,7 +14,7 @@
   </h3>
 
   <p align="center">
-    I'm <b>Vijayarvind10</b>, a passionate developer. I love to explore new technologies and build cool stuff.
+    I'm <b>Vijay</b>, a passionate developer. I love to explore new technologies and build cool stuff.
   </p>
 
   <br>
