@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Vijay&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Vijay%20Arvind&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62" width="100%"/>
 
   <br>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Computer+Programmer;Open+Source+Enthusiast;Always+Learning" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Systems+Engineer;Computer+Science+Master+Student;Distributed+Systems+Enthusiast" alt="Typing SVG" />
   </a>
 
   <br>
@@ -14,14 +14,14 @@
   </h3>
 
   <p align="center">
-    I'm <b>Vijay</b>, a passionate developer. I love to explore new technologies and build cool stuff.
+    I am <b>Vijay</b>, a dedicated systems engineer with a strong background in building high performance infrastructure and reliable distributed systems. I am currently finishing my Master of Science in Computer Science at the University of California Santa Cruz. When I am not writing code for emulators or working on machine learning projects, you can find me playing the guitar or the mridangam.
   </p>
 
   <br>
 
   <h3>🛠️ Tech Stack</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,python,java,react,angular,vue,nextjs,nodejs,express,django,flask,mysql,postgres,mongodb,firebase,docker,kubernetes,aws,git,github,vscode,linux&perline=12" />
+    <img src="https://skillicons.dev/icons?i=cpp,go,python,java,linux,docker,kubernetes,aws,git,github,vscode&perline=11" />
   </a>
 
   <br>
@@ -51,7 +51,6 @@
     <a href="https://github.com/Vijayarvind10">
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
     </a>
-    <!-- Add more socials here -->
   </p>
 
   <br>
